@@ -21,7 +21,7 @@ Prerequisites:
 Steps:
 ```bash
 # 1. Clone the repository
-git clone https://github.com/yourusername/circle-combat.git
+git clone https://github.com/kwwwchan/Ball-Battle-Stimulator.git
 cd circle-combat
 
 # 2. Install PyGame
