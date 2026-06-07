@@ -22,7 +22,7 @@ Steps:
 ```bash
 # 1. Clone the repository
 git clone https://github.com/kwwwchan/Ball-Battle-Stimulator.git
-cd circle-combat
+cd Ball-Battle-Stimulator
 
 # 2. Install PyGame
 pip install pygame
