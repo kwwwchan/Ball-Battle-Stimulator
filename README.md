@@ -6,7 +6,7 @@ Inspired by viral social media combat videos, this project demonstrates object-o
 
 Gameplay
 Three circles move autonomously around the screen, each with:
-- Unique weapon rotating around them at different angles (0°, 120°, 240°)
+- Unique weapon rotating around them at different angles
 - Physics-based movement with realistic collisions
 - Health points displayed on each circle
 When a weapon touches an enemy circle, that circle loses HP. When two weapons collide, they bounce off each other and reverse rotation direction. The last circle with HP remaining wins the match!
